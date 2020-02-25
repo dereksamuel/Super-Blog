@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+.container {
+    background-color: rgb(247, 247, 247);
+    max-width: 115vh;
+    margin-left: 22%;
+}
+
+.container .lopo {
+    color: cornsilk;
+    text-align: left;
+    background-color: rgb(99, 69, 48);
+    padding: 16px;
+}
+
+.container .lopos {
+    color: cornsilk;
+    text-align: left;
+    background-color: rgb(99, 69, 48);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 11px;
+    padding-left: 11vh;
+    margin-top: -14vh;
+}
+
+
+.container .lopo h1 {
+    text-align: center;
+}
+
+.container h2 {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(34, 34, 34);
+}
+.container textarea {
+    margin: 40px;
+    width: 90%;
+    height: 0 auto;
+    max-width: 90%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+}
+
+.container p {
+    text-align: left;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 4vw;
+    max-width: 66vw;
+}
